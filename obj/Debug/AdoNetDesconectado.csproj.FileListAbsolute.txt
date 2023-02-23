@@ -1,0 +1,12 @@
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.exe.config
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.exe
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\AdoNetDesconectado\bin\Debug\AdoNetDesconectado.pdb
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.AssemblyReference.cache
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.SuggestedBindingRedirects.cache
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.frmTipoCliente.resources
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.Properties.Resources.resources
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.GenerateResource.cache
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.csproj.CoreCompileInputs.cache
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.exe
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.pdb
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\AdoNetDesconectado\obj\Debug\AdoNetDesconectado.frmTipoClienteEdit.resources
